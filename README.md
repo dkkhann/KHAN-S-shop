@@ -39,10 +39,6 @@
 </head>
 <body>
 
-    <header>
-        <h1>Diamond Store - Free Fire & CLASH OF CLAN</h1>
-    </header>
-
     <div class="content">
         <h2>আমাদের পণ্যসমূহ</h2>
 
